@@ -1,0 +1,20 @@
+
+.error_container{
+    background-color: red;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    border-color: aliceblue;
+}
+
+.error_txt{
+    font-weight: bold;
+    color: #ffff;
+}
+
+button{
+    border-radius: 4px;
+    padding: 5px 10px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
